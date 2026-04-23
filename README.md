@@ -5,7 +5,7 @@ Soy un **Desarrollador Full Stack en formación**, apasionado por la ingeniería
 A lo largo de mi formación académica, he desarrollado proyectos que van desde la manipulación dinámica del DOM hasta sistemas empresariales con microservicios y seguridad avanzada.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+en+Angular+y+NestJS;Apasionado+por+el+Rendimiento+y+Python;Mobile+Developer+(Ionic)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular,+Astro,+Ionic+%26+TypeScript;NestJS,+Node.js,+Java+%26+Python;MySQL,+MongoDB+%26+Supabase" alt="Typing SVG" />
 </p>
 
 ---
