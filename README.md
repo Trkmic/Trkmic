@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ignacio Trkmic Torres 👋
 
-Soy un **Desarrollador Full Stack en formación**, apasionado por la ingeniería de software y la optimización de procesos. Mi enfoque principal es construir aplicaciones eficientes y escalables utilizando arquitecturas modernas. 
+Soy un **Desarrollador Full Stack en formación**, apasionado por la tecnologia y la optimización de procesos. Mi enfoque principal es construir aplicaciones eficientes y escalables utilizando arquitecturas modernas. 
 
 A lo largo de mi formación académica, he desarrollado proyectos que van desde la manipulación dinámica del DOM hasta sistemas empresariales con microservicios y seguridad avanzada.
 
