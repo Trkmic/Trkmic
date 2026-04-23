@@ -13,7 +13,7 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 ### 🚀 Sobre mí
 
 - 🎓 **Estudiante de Programación**: Enfocado en aplicar estándares de la industria en proyectos académicos y personales.
-- 💻 **Portfolio Personal**: Construido con **Astro** para maximizar el rendimiento y SEO. [Link a tu portfolio]
+- 💻 **Portfolio Personal**: Construido con **Astro** para maximizar el rendimiento y SEO. [ https://trkmic.vercel.app/ ]
 - 🧪 **Rendimiento**: Interesado en la eficiencia algorítmica; realicé análisis comparativos entre **Python nativo** y **NumPy**.
 - 🛠️ **Arquitectura**: Experiencia implementando **JWT**, **PWA**, y **Bases de Datos Relacionales/NoSQL**.
 
