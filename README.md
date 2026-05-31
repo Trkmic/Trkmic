@@ -5,7 +5,7 @@ Soy un **Desarrollador Full Stack en formación**, apasionado por la tecnologia 
 A lo largo de mi formación académica, he desarrollado proyectos que van desde la manipulación dinámica del DOM hasta sistemas empresariales con microservicios y seguridad avanzada.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular,+Astro,+Ionic+%26+TypeScript;NestJS,+Node.js,+Java+%26+Python;MySQL,+MongoDB+%26+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React,+Expo,+Angular,+Astro;Ionic+%26+TypeScript;NestJS,+Node.js,+Java+%26+Python;MySQL,+MongoDB+%26+Supabase" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,6 +23,8 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 
 #### **Frontend & Mobile**
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
