@@ -28,12 +28,12 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 **💻 Sistema de Gestión Empresarial (Microservicios)**
 * *Descripción:* Backend robusto construido para soportar alta escalabilidad, aplicando patrones de arquitectura modernos y seguridad avanzada.
 * *Tecnologías:* NestJS, Java, Node.js, PostgreSQL, JWT.
-* *Link:* [Ver Repositorio](https://github.com/TU_USUARIO/tu-repositorio-ejemplo)
+* *Link:* [Ver Repositorio](https://github.com/Trkmic/tu-repositorio-ejemplo)
 
 **📱 Aplicación Móvil Híbrida (E-commerce / Herramienta)**
 * *Descripción:* Solución multiplataforma con capacidades PWA, sincronización en tiempo real y diseño responsivo optimizado para móviles.
 * *Tecnologías:* React, Expo, TypeScript, Supabase.
-* *Link:* [Ver Repositorio](https://github.com/TU_USUARIO/tu-repositorio-ejemplo)
+* *Link:* [Ver Repositorio](https://github.com/Trkmic/tu-repositorio-ejemplo)
 
 ---
 
@@ -75,12 +75,12 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trkmic&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trkmic&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=radial&hide_border=true" alt="Tiempo en WakaTime" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Trkmic&theme=radial&hide_border=true" alt="Tiempo en WakaTime" width="70%" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 ### 🐍 Historial de Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Serpiente de contribuciones" />
+  <img src="https://raw.githubusercontent.com/Trkmic/Trkmic/output/github-contribution-grid-snake.svg" alt="Serpiente de contribuciones" />
 </p>
 
 ---
