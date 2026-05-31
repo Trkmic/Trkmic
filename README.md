@@ -1,7 +1,7 @@
 # ¡Hola! Soy Ignacio Trkmic Torres 👋 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=36BCF7&style=flat-square&label=Vistas+al+perfil" alt="Contador de vistas" />
+  <img src="https://komarev.com/ghpvc/?username=Trkmic&color=36BCF7&style=flat-square&label=Vistas+al+perfil" alt="Contador de vistas" />
 </p>
 
 Soy un **Desarrollador Full Stack en formación**, apasionado por la tecnología y la optimización de procesos. Mi enfoque principal es construir aplicaciones eficientes y escalables utilizando arquitecturas modernas. 
