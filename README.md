@@ -52,15 +52,6 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trkmic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trkmic&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
 ### 📬 Contacto
 
 ¿Tienes algún proyecto en mente o quieres charlar sobre tecnología? ¡Contactame!
