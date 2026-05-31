@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Se ejecuta cada 12 horas automáticamente
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Actualizar Serpiente
+    runs-on: ubuntu-latest
+    steps:
+      # Genera la serpiente a partir de tus contribuciones
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Trkmic
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Empuja el archivo generado a una rama llamada 'output'
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
