@@ -28,12 +28,12 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 **💻 Sistema de Gestión Empresarial (Microservicios)**
 * *Descripción:* Backend robusto construido para soportar alta escalabilidad, aplicando patrones de arquitectura modernos y seguridad avanzada.
 * *Tecnologías:* NestJS, Java, Node.js, PostgreSQL, JWT.
-* *Link:* [Ver Repositorio](https://github.com/Trkmic/tu-repositorio-ejemplo)
+* *Link:* [Ver Repositorio](https://github.com/Trkmic/inventory-management-api.git)
 
-**📱 Aplicación Móvil Híbrida (E-commerce / Herramienta)**
-* *Descripción:* Solución multiplataforma con capacidades PWA, sincronización en tiempo real y diseño responsivo optimizado para móviles.
-* *Tecnologías:* React, Expo, TypeScript, Supabase.
-* *Link:* [Ver Repositorio](https://github.com/Trkmic/tu-repositorio-ejemplo)
+** Red social**
+* *Descripción:* Plataforma social con NestJS y Angular. Incluye autenticación JWT, dashboards de estadísticas con Chart.js y gestión de medios en Cloudinary.
+* *Tecnologías:* Angular, Bootstrap, NestJS, MongoDB,HTML, CSS, Typescript.
+* *Link:* [Ver Repositorio](https://github.com/Trkmic/connect-social-network.git)
 
 ---
 
@@ -101,7 +101,7 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
   <a href="https://www.linkedin.com/in/ignacio-trkmic-5a797827a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:trkmicignacio.com">
+  <a href="mailto:trkmicignacio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
