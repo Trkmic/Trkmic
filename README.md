@@ -1,6 +1,10 @@
-# ¡Hola! Soy Ignacio Trkmic Torres 👋
+# ¡Hola! Soy Ignacio Trkmic Torres 👋 
 
-Soy un **Desarrollador Full Stack en formación**, apasionado por la tecnologia y la optimización de procesos. Mi enfoque principal es construir aplicaciones eficientes y escalables utilizando arquitecturas modernas. 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=36BCF7&style=flat-square&label=Vistas+al+perfil" alt="Contador de vistas" />
+</p>
+
+Soy un **Desarrollador Full Stack en formación**, apasionado por la tecnología y la optimización de procesos. Mi enfoque principal es construir aplicaciones eficientes y escalables utilizando arquitecturas modernas. 
 
 A lo largo de mi formación académica, he desarrollado proyectos que van desde la manipulación dinámica del DOM hasta sistemas empresariales con microservicios y seguridad avanzada.
 
@@ -16,6 +20,20 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 - 💻 **Portfolio Personal**: Construido con **Astro** para maximizar el rendimiento y SEO. [ https://trkmic.vercel.app/ ]
 - 🧪 **Rendimiento**: Interesado en la eficiencia algorítmica; realicé análisis comparativos entre **Python nativo** y **NumPy**.
 - 🛠️ **Arquitectura**: Experiencia implementando **JWT**, **PWA**, y **Bases de Datos Relacionales/NoSQL**.
+
+---
+
+### 🏆 Proyectos Destacados
+
+**💻 Sistema de Gestión Empresarial (Microservicios)**
+* *Descripción:* Backend robusto construido para soportar alta escalabilidad, aplicando patrones de arquitectura modernos y seguridad avanzada.
+* *Tecnologías:* NestJS, Java, Node.js, PostgreSQL, JWT.
+* *Link:* [Ver Repositorio](https://github.com/TU_USUARIO/tu-repositorio-ejemplo)
+
+**📱 Aplicación Móvil Híbrida (E-commerce / Herramienta)**
+* *Descripción:* Solución multiplataforma con capacidades PWA, sincronización en tiempo real y diseño responsivo optimizado para móviles.
+* *Tecnologías:* React, Expo, TypeScript, Supabase.
+* *Link:* [Ver Repositorio](https://github.com/TU_USUARIO/tu-repositorio-ejemplo)
 
 ---
 
@@ -54,9 +72,30 @@ A lo largo de mi formación académica, he desarrollado proyectos que van desde 
 
 ---
 
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=radial&hide_border=true" alt="Tiempo en WakaTime" width="70%" />
+</p>
+
+---
+
+### 🐍 Historial de Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Serpiente de contribuciones" />
+</p>
+
+---
+
 ### 📬 Contacto
 
-¿Tienes algún proyecto en mente o quieres charlar sobre tecnología? ¡Contactame!
+¿Tienes algún proyecto en mente o quieres charlar sobre tecnología? ¡Contáctame!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ignacio-trkmic-5a797827a/" target="_blank">
