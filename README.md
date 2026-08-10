@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Trkmic&color=36BCF7&style=flat-square&label=Vistas+al+perfil" alt="Contador de vistas" />
 </p>
 
-Soy un **QA Engineer con sólida base en programación y un enfoque analítico**[cite: 1]. Especializado en asegurar la calidad de ecosistemas multiplataforma (Web, Mobile, APIs) y sistemas backoffice complejos bajo metodologías ágiles (Scrum)[cite: 1]. 
+Soy un **QA Engineer con sólida base en programación y un enfoque analítico**. Especializado en asegurar la calidad de ecosistemas multiplataforma (Web, Mobile, APIs) y sistemas backoffice complejos bajo metodologías ágiles (Scrum). 
 
-Mi formación técnica me brinda un dominio avanzado de bases de datos (SQL) y arquitecturas modernas, lo que me permite ir más allá del testeo tradicional: entiendo la infraestructura subyacente, identifico causas raíz y colaboro estrechamente con los equipos de desarrollo[cite: 1]. Actualmente, estoy orientando mi perfil hacia **QA Automation**, capitalizando mis conocimientos de código (Java, Python) para evolucionar hacia el testing automatizado y escalable[cite: 1].
+Mi formación técnica me brinda un dominio avanzado de bases de datos (SQL) y arquitecturas modernas, lo que me permite ir más allá del testeo tradicional: entiendo la infraestructura subyacente, identifico causas raíz y colaboro estrechamente con los equipos de desarrollo. Actualmente, estoy orientando mi perfil hacia **QA Automation**, capitalizando mis conocimientos de código (Java, Python) para evolucionar hacia el testing automatizado y escalable.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Analista+QA;Manual+%26+Automation+Testing;Mobile+(iOS%2FAndroid)+%26+Backoffice;SQL,+Java+%26+Python;Jira,+Perfecto+%26+Agile" alt="Typing SVG" />
@@ -16,26 +16,26 @@ Mi formación técnica me brinda un dominio avanzado de bases de datos (SQL) y a
 
 ### 🚀 Sobre mí
 
-- 💼 **Rol Actual**: QA Engineer en TecnoSoftware (asignado a Banco Patagonia)[cite: 1]. 
-- 🎯 **Enfoque Práctico**: Ejecución de ciclos de pruebas integrales para apps móviles (iOS/Android) mediante Perfecto y validación de operaciones complejas en sistemas Backoffice financieros[cite: 1].
-- 🎓 **Formación**: Graduado de la Tecnicatura Universitaria en Programación y actual estudiante de Ingeniería Mecánica en la UTN FRA[cite: 1].
-- ⚙️ **Herramientas Clave**: Gestión de defectos y diseño de casos de prueba en Jira, consultas SQL complejas para verificación de bases de datos y trabajo bajo metodologías Agile/Scrum[cite: 1].
+- 💼 **Rol Actual**: QA Engineer en TecnoSoftware (asignado a Banco Patagonia). 
+- 🎯 **Enfoque Práctico**: Ejecución de ciclos de pruebas integrales para apps móviles (iOS/Android) mediante Perfecto y validación de operaciones complejas en sistemas Backoffice financieros.
+- 🎓 **Formación**: Graduado de la Tecnicatura Universitaria en Programación y actual estudiante de Ingeniería Mecánica en la UTN FRA.
+- ⚙️ **Herramientas Clave**: Gestión de defectos y diseño de casos de prueba en Jira, consultas SQL complejas para verificación de bases de datos y trabajo bajo metodologías Agile/Scrum.
 
 ---
 
 ### 🏆 Proyectos y Experiencia Destacada
 
 **💻 Plataforma de Software Colaborativo (Ristodeli)**
-* *Descripción:* Participación activa en el ciclo de vida del software, testeando funcionalidades y validando integraciones de bases de datos en la nube y despliegues exitosos en producción[cite: 1].
-* *Tecnologías:* Supabase, Vercel, GitHub[cite: 1].
+* *Descripción:* Participación activa en el ciclo de vida del software, testeando funcionalidades y validando integraciones de bases de datos en la nube y despliegues exitosos en producción.
+* *Tecnologías:* Supabase, Vercel, GitHub.
 
 **📱 Red Social Full Stack**
-* *Descripción:* Validación de arquitectura y flujos de datos[cite: 1]. Implementación de comprobaciones de endpoints y validaciones de seguridad (autenticación JWT) para garantizar la integridad de los datos del usuario[cite: 1].
-* *Tecnologías:* NestJS, Angular, MongoDB[cite: 1].
+* *Descripción:* Validación de arquitectura y flujos de datos. Implementación de comprobaciones de endpoints y validaciones de seguridad (autenticación JWT) para garantizar la integridad de los datos del usuario.
+* *Tecnologías:* NestJS, Angular, MongoDB.
 
 **📊 Sistema de Gestión de Datos**
-* *Descripción:* Creación de un sistema de procesamiento capaz de manejar y normalizar grandes volúmenes de datos en formatos CSV y JSON, asegurando la calidad de la información mediante validaciones lógicas exhaustivas[cite: 1].
-* *Tecnologías:* Python, SQL[cite: 1].
+* *Descripción:* Creación de un sistema de procesamiento capaz de manejar y normalizar grandes volúmenes de datos en formatos CSV y JSON, asegurando la calidad de la información mediante validaciones lógicas exhaustivas.
+* *Tecnologías:* Python, SQL.
 
 ---
 
